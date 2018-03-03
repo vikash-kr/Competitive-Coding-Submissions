@@ -10,7 +10,7 @@
 #include <stack>
 #include <queue>
 using namespace std;
-#define ll long long
+#define ll long long int
 #define pb push_back
 #define MOD 1000000007
 
@@ -21,6 +21,8 @@ int main(){
     int t;
     cin>>t;
     while(t--){
+      ll n,i;
+      cin>>n;
       cout<<"*"<<endl;
     }
     return 0;
